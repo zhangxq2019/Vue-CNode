@@ -1,0 +1,44 @@
+{
+  "id": "1935135",
+  "name": "vcnode",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1585710",
+      "name": "infomation",
+      "font_class": "message",
+      "unicode": "e884",
+      "unicode_decimal": 59524
+    },
+    {
+      "icon_id": "2440125",
+      "name": "other",
+      "font_class": "other",
+      "unicode": "e619",
+      "unicode_decimal": 58905
+    },
+    {
+      "icon_id": "9192683",
+      "name": "Login",
+      "font_class": "Login",
+      "unicode": "e68d",
+      "unicode_decimal": 59021
+    },
+    {
+      "icon_id": "12237652",
+      "name": "register",
+      "font_class": "register",
+      "unicode": "e6ef",
+      "unicode_decimal": 59119
+    },
+    {
+      "icon_id": "15064623",
+      "name": "infomation",
+      "font_class": "infomation",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    }
+  ]
+}
